@@ -5,6 +5,6 @@ This repository consists of simple ios based apps that I created while following
 
 <img src = "Images/WeSplit.png" width="250">
 
-2. GuessTheFlag: A guessing game that helps users learn some of the many flags of the world.
+2. GuessTheFlag: A guessing game that helps users learn some of the many flags of the world. This project also uses the concept of alerts.
 
 <img src = "Images/GuessTheFlag.png" width="250">
