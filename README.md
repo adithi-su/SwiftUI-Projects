@@ -16,6 +16,7 @@ This repository consists of simple ios based apps that I built while following t
 Once we have those three values, we’ll feed them into Core ML to get a result telling us when they ought to go to bed. 
 
 <span>
-  <img src = "Images/BetterRest.png" width="250" padding:30> 
+  <img src = "Images/BetterRest.png" width="250">
+  
   <img src = "Images/BetterRest2.png" width="250">
 </span>
