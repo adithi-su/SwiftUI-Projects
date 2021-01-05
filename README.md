@@ -9,14 +9,22 @@ This repository consists of simple ios based apps that I built while following t
 
 <img src = "Images/GuessTheFlag.png" width="200">
 
-3. BetterRest:An app that helps coffee drinkers get a good night’s sleep by asking them three questions:
+3. BetterRest: An app that helps coffee drinkers get a good night’s sleep by asking them three questions:
   1.When do they want to wake up?
   2.Roughly how many hours of sleep do they want?
   3.How many cups of coffee do they drink per day?
 Once we have those three values, we’ll feed them into Core ML to get a result telling us when they ought to go to bed. 
 
 <span>
-  <img src = "Images/BetterRest.png" width="200">
-  
+  <img src = "Images/BetterRest.png" width="200"> 
   <img src = "Images/BetterRest2.png" width="200">
+</span>
+
+4. WordScramble: The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
+
+<span>
+  <img src = "Images/WordScramble" width="200">
+  <img src = "Images/WordScramble1" width="200">
+  <img src = "Images/WordScramble2" width="200">
+  <img src = "Images/WordScramble3" width="200">
 </span>
