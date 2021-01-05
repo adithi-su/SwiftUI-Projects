@@ -23,8 +23,8 @@ Once we have those three values, we’ll feed them into Core ML to get a result 
 4. WordScramble: The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
 
 <span>
-  <img src = "Images/WordScramble" width="200">
-  <img src = "Images/WordScramble1" width="200">
-  <img src = "Images/WordScramble2" width="200">
-  <img src = "Images/WordScramble3" width="200">
+  <img src = "Images/WordScramble.png" width="200">
+  <img src = "Images/WordScramble1.png" width="200">
+  <img src = "Images/WordScramble2.png" width="200">
+  <img src = "Images/WordScramble3.png" width="200">
 </span>
