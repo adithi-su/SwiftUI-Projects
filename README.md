@@ -25,6 +25,4 @@ Once we have those three values, we’ll feed them into Core ML to get a result 
 <span>
   <img src = "Images/WordScramble.png" width="200">
   <img src = "Images/WordScramble1.png" width="200">
-  <img src = "Images/WordScramble2.png" width="200">
-  <img src = "Images/WordScramble3.png" width="200">
 </span>
